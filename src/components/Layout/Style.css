@@ -1,0 +1,63 @@
+h1, h2, h4, h5, h6, .h7 {
+  font-family: "PT Sans Caption", Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-weight: 700;
+}
+.hero-image{
+  background-image: url("../assets/hero.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+i:hover{
+  color: #fe4918 !important;
+  
+}
+.icon-cala{
+  color: #fe4918 !important;
+}
+
+.ventcamp-title{
+  margin: 0 0 8px;
+  font-size: 132px;
+  text-transform: uppercase;
+  letter-spacing: 0;
+}
+.ventcamp-text{
+  font-size: 20px;
+  font-weight: 300;
+}
+.get-tickets{
+  font-size: small !important;
+  background-color: #fe4918 !important; 
+  border-radius: none !important;
+}
+.get-tickets:hover{
+  color: white !important;
+}
+.video{
+  font-size: small !important;
+}
+.video:hover{
+  color: #ff5627 !important;
+  background-color: white !important;
+}
+.navbar1-dark.bg1-dark{
+  background-color: black !important;
+}
+.navbar-brand{
+  color: #fe4918 !important;
+  font-weight: 900;
+}
+.nav-link{
+  color: white !important;
+  font-size: small !important;
+}
+.nav-link:hover{
+  color: #fe4918 !important;
+  font-size: small !important;
+}
+.buy-ticket{
+  border:2px solid #fe4918 !important;
+  font-size: small;
+}
