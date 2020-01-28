@@ -77,8 +77,7 @@ const Header = () => {
             </div>
           </div>
           <div className="col-lg-12 col-sm-12 mt-4 text-center">
-          <a href="#" alt="getticket" className="btn  px-4 get-tickets text-light mr-4">GET TICKETS </a>
-          <a href="#" alt="videos" className="btn video  px-4 bg-transparent border-light text-light">VIDEO </a>
+          <a href="#" alt="getticket" className="btn   px-4 get-tickets text-light mr-4">GET TICKETS </a>
           </div>
         </div>
       </div>

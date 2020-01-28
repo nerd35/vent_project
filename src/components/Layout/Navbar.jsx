@@ -3,13 +3,13 @@ import './Style.css';
 
 const Navbar = () => {
   return (
-    <nav className='navbar navbar-expand-lg navbar1-dark sticky-top bg1-dark'>
+    <nav className='navbar navbar-expand-lg navbar navbar-dark bg-dark sticky-top'>
       <div className='container mt-3 mb-3'>
         <a className='navbar-brand mr-5' href='#'>
           VENTCAMP
         </a>
         <button
-          className='navbar-toggler'
+          className='navbar-toggler text-warning'
           type='button'
           data-toggle='collapse'
           data-target='#navbarText'
@@ -17,7 +17,7 @@ const Navbar = () => {
           aria-expanded='false'
           aria-label='Toggle navigation'
         >
-          <span className='navbar-toggler-icon'></span>
+          <span className='navbar-toggler-icon text-warning'></span>
         </button>
         <div className='collapse navbar-collapse ml-5' id='navbarText'>
           <ul className='navbar-nav mr-auto'>
